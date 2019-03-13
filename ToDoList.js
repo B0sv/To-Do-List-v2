@@ -28,7 +28,6 @@ class TodoList extends Component {
         console.log(this.state.items)
         e.preventDefault()
     }
-
     render() {
         return (
             <div className="todoListMain">
